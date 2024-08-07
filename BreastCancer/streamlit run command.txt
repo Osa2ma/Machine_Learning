@@ -1,0 +1,1 @@
+streamlit run "C:\Users\pc\Desktop\breast cancer prediction system\Bcancer_prediction.py"
